@@ -973,5 +973,14 @@
       "Great work creating a fork with Github!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1767514363.935395,
+    "completed_at": 1767514365.34512,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
   }
 ]
